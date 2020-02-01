@@ -1,13 +1,13 @@
 # Socket - Server & Client Connection Using Python
 
-## This repository contains the two different connections :
-### 1. Single Client Socket Connection :  server and client model so that each can communicate with them.
+### This repository contains the two different connections :
+ 1. Single Client Socket Connection :  server and client model so that each can communicate with them.
 
-### 2. Multiple Client Socket Connection : server can list all the connections and manage the connections also.
+ 2. Multiple Client Socket Connection : server can list all the connections and manage the connections also.
 
 
 
-## Python Socket Programming - 
+### Python Socket Programming - 
 
 To understand python socket programming, we need to know about three interesting topics – Socket Server, Socket Client and Socket.
 
